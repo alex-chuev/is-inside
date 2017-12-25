@@ -1,0 +1,26 @@
+{
+  "name": "is-inside",
+  "version": "1.0.0",
+  "description": "To check whether the path in inside the directory or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-chuev/is-inside.git"
+  },
+  "keywords": [
+    "path",
+    "file",
+    "folder",
+    "directory",
+    "inside"
+  ],
+  "author": "Alex Chuev <alex@chuev.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alex-chuev/is-inside/issues"
+  },
+  "homepage": "https://github.com/alex-chuev/is-inside#readme"
+}
