@@ -1,1 +1,1 @@
-export default function isInside(child: string, parent: string): boolean;
+export function isInside(child: string, parent: string): boolean;

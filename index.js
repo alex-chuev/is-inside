@@ -1,6 +1,7 @@
 const path = require('path');
 
 module.exports = isInside;
+module.exports.isInside = isInside;
 
 function isInside(child, parent) {
   child = removeTrailingSlash(toAbsolute(child));
