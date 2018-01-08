@@ -1,6 +1,6 @@
 {
   "name": "is-inside",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "To check whether the path is inside the directory or not.",
   "main": "index.js",
   "types": "index.d.ts",
